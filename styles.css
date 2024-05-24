@@ -1,0 +1,22 @@
+@import url('https://fonts.cdnfonts.com/css/handwriting');
+table {
+	border-collapse: collapse;
+	border: 1px black solid;
+}
+		
+table {
+	background-color: lightgrey;
+	font-family: 'Handwriting', sans-serif;
+}
+.landing {
+	font-family: 'Handwriting', sans-serif;
+}
+body {
+	background-color: lightgrey;
+}
+.audio {
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	background-color:lightgrey;
+}
